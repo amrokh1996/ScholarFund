@@ -43,7 +43,7 @@ To set up ScholarFund locally for development purposes, follow these steps:
 1. Clone the repository from GitHub: `git clone <repository-url>`
 2. Install the necessary dependencies by running the command: `npm install`
 3. Set up a MongoDB database and configure the connection settings.
-4. Run the server using the command: `npm run dev`
+4. Run the server using the command: `npm run dev `
 5. Open your web browser and navigate to `http://localhost:5173/` to access the application.
 
 ## :raised_hands: Contributing
@@ -59,5 +59,3 @@ Contributions to ScholarFund are welcome. If you would like to contribute, pleas
 Thank you for your interest in ScholarFund. Together, we can empower students worldwide!
 
 ## :computer: Links
-
-### ▷ [ Wireframe & MockUp](https://www.figma.com/file/dTrqPHWc0hgL10PzTUWiYl/Untitled?type=design&node-id=0-1)

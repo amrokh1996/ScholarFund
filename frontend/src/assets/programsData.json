@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Human Resource Management",
+    "description": "This program offers comprehensive knowledge and skills in managing human resources within organizations. Gain expertise in recruitment, training, employee relations, and strategic workforce planning. Develop a strong foundation in HR principles over a duration of 4 years.",
+    "duration": "4 years",
+    "image": "https://img.freepik.com/free-photo/human-resources-business-profession-graphic-concept_53876-124776.jpg?w=1380&t=st=1687044381~exp=1687044981~hmac=48421eca38376ec05d8045e137708dda86794e688a44bf90945de17b91e2177f"
+  },
+  {
+    "id": 2,
+    "title": "International Healthcare Management",
+    "description": "Explore the dynamic field of international healthcare management and learn to navigate complex healthcare systems. Acquire the necessary skills to lead and administer healthcare organizations, with a focus on global perspectives. This program spans a duration of 3 years.",
+    "duration": "3 years",
+    "image": "https://img.freepik.com/free-photo/smiling-mature-financial-advisor-doctors-communicating-while-standing-lobby-medical-clinic_637285-4627.jpg?w=996&t=st=1687044272~exp=1687044872~hmac=1c749ffd8d2befae16047ced633c9e90e7032afa996adfa2344b1269038c18f5"
+  },
+  {
+    "id": 3,
+    "title": "Engineering Management",
+    "description": "Combine engineering expertise with business acumen in this program that prepares you to lead engineering projects and teams. Develop skills in project management, innovation, and technical leadership. Immerse yourself in this program for a duration of 4 years.",
+    "duration": "4 years",
+    "image": "https://img.freepik.com/free-photo/engineer-meeting-architectural-project-working-with-partner_1421-70.jpg?w=996&t=st=1687044430~exp=1687045030~hmac=a728cc2cc211397766ece9cd83945c7e2ee54671e392d3a0341519f1021d93d2"
+  },
+  {
+    "id": 4,
+    "title": "Computer Science",
+    "description": "Delve into the world of computer science, where you'll gain a deep understanding of algorithms, programming languages, and software development. Explore cutting-edge technologies and solve complex problems. This program offers a duration of 3 years.",
+    "duration": "3 years",
+    "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=996&t=st=1687044466~exp=1687045066~hmac=91a3b4245c1f44126bdbe61b5a7922ec69c6bba3ecc9f4fb6dc1e0499ebefc85"
+  }
+]
